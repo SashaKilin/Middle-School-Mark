@@ -1,0 +1,13 @@
+C:\Users\sasha\Desktop\prog\Middle School Mark\Middle School Mark\bin\Debug\Middle School Mark.exe.config
+C:\Users\sasha\Desktop\prog\Middle School Mark\Middle School Mark\bin\Debug\Middle School Mark.exe
+C:\Users\sasha\Desktop\prog\Middle School Mark\Middle School Mark\bin\Debug\Middle School Mark.pdb
+C:\Users\sasha\Desktop\prog\Middle School Mark\Middle School Mark\obj\Debug\Middle School Mark.csproj.AssemblyReference.cache
+C:\Users\sasha\Desktop\prog\Middle School Mark\Middle School Mark\obj\Debug\Middle_School_Mark.Form1.resources
+C:\Users\sasha\Desktop\prog\Middle School Mark\Middle School Mark\obj\Debug\Middle_School_Mark.Properties.Resources.resources
+C:\Users\sasha\Desktop\prog\Middle School Mark\Middle School Mark\obj\Debug\Middle School Mark.csproj.GenerateResource.cache
+C:\Users\sasha\Desktop\prog\Middle School Mark\Middle School Mark\obj\Debug\Middle School Mark.csproj.CoreCompileInputs.cache
+C:\Users\sasha\Desktop\prog\Middle School Mark\Middle School Mark\obj\Debug\Middle School Mark.exe
+C:\Users\sasha\Desktop\prog\Middle School Mark\Middle School Mark\obj\Debug\Middle School Mark.pdb
+C:\Users\sasha\Desktop\prog\Middle School Mark\Middle School Mark\bin\Debug\ru\Middle School Mark.resources.dll
+C:\Users\sasha\Desktop\prog\Middle School Mark\Middle School Mark\obj\Debug\Middle_School_Mark.Form1.ru.resources
+C:\Users\sasha\Desktop\prog\Middle School Mark\Middle School Mark\obj\Debug\ru\Middle School Mark.resources.dll
